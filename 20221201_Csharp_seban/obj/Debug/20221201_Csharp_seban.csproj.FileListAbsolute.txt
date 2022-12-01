@@ -1,0 +1,8 @@
+D:\dev\csharp\orai\20221201_Csharp_seban\20221201_Csharp_seban\bin\Debug\20221201_Csharp_seban.exe.config
+D:\dev\csharp\orai\20221201_Csharp_seban\20221201_Csharp_seban\bin\Debug\20221201_Csharp_seban.exe
+D:\dev\csharp\orai\20221201_Csharp_seban\20221201_Csharp_seban\bin\Debug\20221201_Csharp_seban.pdb
+D:\dev\csharp\orai\20221201_Csharp_seban\20221201_Csharp_seban\obj\Debug\20221201_Csharp_seban.csproj.AssemblyReference.cache
+D:\dev\csharp\orai\20221201_Csharp_seban\20221201_Csharp_seban\obj\Debug\20221201_Csharp_seban.csproj.SuggestedBindingRedirects.cache
+D:\dev\csharp\orai\20221201_Csharp_seban\20221201_Csharp_seban\obj\Debug\20221201_Csharp_seban.csproj.CoreCompileInputs.cache
+D:\dev\csharp\orai\20221201_Csharp_seban\20221201_Csharp_seban\obj\Debug\20221201_Csharp_seban.exe
+D:\dev\csharp\orai\20221201_Csharp_seban\20221201_Csharp_seban\obj\Debug\20221201_Csharp_seban.pdb
